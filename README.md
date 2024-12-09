@@ -5,6 +5,7 @@ This repository contains a simple serverless application built using the **AWS S
 
 # Demonstration video
 Testing using AWS management console: https://drive.google.com/file/d/1u_hPyje0b8QoR_KCw1VWgQZNLvqBfB90/view?usp=drivesdk
+Testing locally using Docker: https://drive.google.com/file/d/1zFPXMafDfu11p0jwnwqRJa5zY4YnmKFz/view?usp=drivesdk
 
 # Project Overview
 
