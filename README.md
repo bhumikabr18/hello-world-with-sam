@@ -4,7 +4,7 @@
 This repository contains a simple serverless application built using the **AWS Serverless Application Model (SAM)** framework. The application deploys an AWS Lambda function that responds with "Hello, World!" when invoked via an API Gateway.
 
 # Demonstration video
-https://drive.google.com/file/d/1u_hPyje0b8QoR_KCw1VWgQZNLvqBfB90/view?usp=drivesdk
+Testing using AWS management console: https://drive.google.com/file/d/1u_hPyje0b8QoR_KCw1VWgQZNLvqBfB90/view?usp=drivesdk
 
 # Project Overview
 
